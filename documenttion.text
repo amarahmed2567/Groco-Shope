@@ -1,0 +1,25 @@
+// set up
+___colors:
+1-#ff7800 // style color
+2-#eeeeee // background items color
+3-#130f40 // heding color 
+4-#666 // prgriphe color
+######################
+____fonts:
+Poppins
+#####################
+__buttons:
+
+;
+//navbar 
+content  to:
+logo in the left ,
+links in the midel,// in the mobile it will be menu
+search and cart and login in the right,
+
+//home section
+1- 50vh height ,
+2-  it's content in the midel: header (h1),
+prgriphe,button 
+
+//swiper in 
